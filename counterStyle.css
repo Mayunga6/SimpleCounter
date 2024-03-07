@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    margin-top: 150px;
+    }
+button {
+    background: gray;
+    }
+
+#increase {
+    color: darkgreen;
+    }
+
+#decrease {
+    color: red;
+    }
+
+#reset {
+    color: blue;
+    }
+
+h1 {
+    font-size: xx-large;
+    }
+
